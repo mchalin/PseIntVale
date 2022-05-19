@@ -9,6 +9,7 @@ Proceso Ejercicio5
 	divisores <- 0;
 	Para contador<-nro Hasta 1 Con Paso -1 Hacer
 		Si nro mod contador = 0 Entonces
+			//Escribir "Divisor: ", contador;
 			divisores <- divisores + 1;
 		FinSi
 	FinPara
